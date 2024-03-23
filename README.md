@@ -2,7 +2,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+!["First Screen"](./Image_1.jpg)
+!["Second Screen"](./Image_2.jpg)
+!["Third Screen"](./Image_3.jpg)
 
 ## Step 1: Start the Metro Server
 
